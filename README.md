@@ -1,5 +1,5 @@
 
-Hi, I’m Stephanie<br>💡 Tech enthusiast | Software Engineer | Podcaster<br><br>🎙️ The Unpopular Opinion Podcast — where I talk faith, tech, & life<br><br>🤝 Open to Collaborating On<br>Django, FastAPI, or Node.js projects<br><br>Systems analysis or impactful backend tools<br><br>🧠 Currently Learning<br>SQLModel, PostgreSQL, and scalable API design<br><br>Real-world project management + system design thinking<br><br>💬 Fun Facts<br>I build solutions that make life easier or more meaningful<br><br>Faith, tech, and honest storytelling are my fuel
+Hi, I’m Stephanie<br>💡 Tech enthusiast | Software Engineer | Podcaster<br><br><br><br>🤝 Open to Collaborating On<br>Django, FastAPI, or Node.js projects<br><br>Systems analysis or impactful backend tools<br><br>🧠 Currently Learning<br>SQLModel, PostgreSQL, and scalable API design<br><br> project management + system design thinking<br><br>💬 Fun Facts<br>I have a Podcast so I can talk about everything and anything😂<br><br>
 
 
 ## 🌐 Socials:

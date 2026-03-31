@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I’m Stephanie<br>💡 Tech enthusiast | Backend Dev | Podcaster<br>✝️ Jesus at the center of it all<br><br>🔨 Recently Worked On<br>🧠 A Facial Recognition App using Flask, MongoDB, dlib, OpenCV & Cloudinary<br><br>💬 A Gemini Chatbot for Telegram, powered by FastAPI + SQLModel<br><br>🛍️ An E-commerce site built with Django<br><br>🎙️ The Unpopular Opinion Podcast — where I talk faith, tech, & life<br><br>🤝 Open to Collaborating On<br>Django, FastAPI, or Node.js projects<br><br>Systems analysis or impactful backend tools<br><br>🧠 Currently Learning<br>SQLModel, PostgreSQL, and scalable API design<br><br>Real-world project management + system design thinking<br><br>💬 Fun Facts<br>I build solutions that make life easier or more meaningful<br><br>Faith, tech, and honest storytelling are my fuel
+
+Hi, I’m Stephanie<br>💡 Tech enthusiast | Software Engineer | Podcaster<br><br>🎙️ The Unpopular Opinion Podcast — where I talk faith, tech, & life<br><br>🤝 Open to Collaborating On<br>Django, FastAPI, or Node.js projects<br><br>Systems analysis or impactful backend tools<br><br>🧠 Currently Learning<br>SQLModel, PostgreSQL, and scalable API design<br><br>Real-world project management + system design thinking<br><br>💬 Fun Facts<br>I build solutions that make life easier or more meaningful<br><br>Faith, tech, and honest storytelling are my fuel
 
 
 ## 🌐 Socials:

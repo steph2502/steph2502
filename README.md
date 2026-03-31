@@ -1,6 +1,44 @@
 
-Hi, I’m Stephanie<br>💡 Tech enthusiast | Software Engineer | Podcaster<br><br><br><br>🤝 Open to Collaborating On<br>Django, FastAPI, or Node.js projects<br><br>Systems analysis or impactful backend tools<br><br>🧠 Currently Learning<br>SQLModel, PostgreSQL, and scalable API design<br><br> project management + system design thinking<br><br>💬 Fun Facts<br>I have a Podcast so I can talk about everything and anything😂<br><br>
+# Hi, I’m Stephanie 👋
 
+**Software Engineer | Backend Developer | Podcaster**
+
+Building systems, APIs, and ideas that scale.
+
+---
+
+## 🤝 Collaborations
+I’m open to working on:
+- Backend systems & API design  
+- Fullstack applications with real-world use cases  
+- Open-source contributions  
+- Hackathon builds & early-stage ideas  
+
+---
+
+## 🧠 Currently Learning
+- SQLModel  
+- PostgreSQL  
+- System design & scalable architecture  
+
+---
+
+## 🛠️ Tech Interests
+- Backend development  
+- API design  
+- Distributed systems (learning in progress 😄)  
+- Product thinking  
+
+---
+
+## 💬 Fun Fact
+I started a podcast so that i can talk about everything!
+
+---
+
+> “Build things that outlast you.”
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_steph_.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/stephanie-onwuagbaizubaizu-910701269) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@sonwuagbaizu.2202300) 

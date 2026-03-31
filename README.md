@@ -1,7 +1,7 @@
 
 # Hi, I’m Stephanie 👋
 
-**Software Engineer | Backend Developer | Podcaster**
+**Software Engineer | System Analyst | Podcaster**
 
 Building systems, APIs, and ideas that scale.
 
@@ -26,13 +26,13 @@ I’m open to working on:
 ## 🛠️ Tech Interests
 - Backend development  
 - API design  
-- Distributed systems (learning in progress 😄)  
+- Distributed systems (learning in progress 😅)  
 - Product thinking  
 
 ---
 
 ## 💬 Fun Fact
-I started a podcast so that i can talk about everything!
+I started a podcast so that I can talk about everything!
 
 ---
 

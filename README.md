@@ -1,7 +1,7 @@
 
 # Hi, I’m Stephanie 👋
 
-**Software Engineer | System Analyst | Podcaster**
+**Software Engineer
 
 Building systems, APIs, and ideas that scale.
 
@@ -16,29 +16,17 @@ I’m open to working on:
 
 ---
 
-## 🧠 Currently Learning
-- SQLModel  
-- PostgreSQL  
-- System design & scalable architecture  
-
 ---
 
 ## 🛠️ Tech Interests
 - Backend development  
-- API design  
+- API design
+- System design & scalable architecture   
 - Distributed systems (learning in progress 😅)  
 - Product thinking  
 
 ---
 
-## 💬 Fun Fact
-I started a podcast so that I can talk about everything!
-
----
-
-> “Build things that outlast you.”
-
----
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_steph_.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/stephanie-onwuagbaizubaizu-910701269) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@sonwuagbaizu.2202300) 

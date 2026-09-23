@@ -1,7 +1,7 @@
 
 # Hi, I’m Stephanie 👋
 
-**Software Engineer
+Software Engineer
 
 Building systems, APIs, and ideas that scale.
 

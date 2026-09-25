@@ -22,7 +22,7 @@ I’m open to working on:
 - Backend development  
 - API design
 - System design & scalable architecture   
-- Distributed systems (learning in progress 😅)  
+- Distributed systems
 - Product thinking  
 
 ---
